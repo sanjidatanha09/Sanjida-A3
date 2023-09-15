@@ -10,6 +10,7 @@
 ## Second Question: Discuss how you managed the state in your assignment project.
 
 Managing state in a course registration project is crucial for tracking course availability, student enrollments, and other important data.
-- Identify the Types of State:This includes information about each course, such as its name, course details, course credit and course price.
+1- Identify the Types of State : This includes information about each course, such as its name, course details, course credit and course price.Tracking which students are enrolled in which courses and managing waitlists.
+- Choose a State Management Approach : 
 
 
