@@ -6,6 +6,6 @@
 3.when click card(select) then course add and show will in cart section
 4.Display appropriate error messages if a student tries to enroll in a course that's already full or overlaps with their existing schedule.
 5.Implement validation to prevent removal if the course has already started.
-
+##
 ## Second Question: Discuss how you managed the state in your assignment project.
 
